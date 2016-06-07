@@ -1,4 +1,4 @@
-package com.lucianomolinari.akkahttp_redis
+package com.lucianomolinari.akkahttpredis
 
 import akka.http.scaladsl.model.StatusCodes
 import akka.http.scaladsl.server.Directives._

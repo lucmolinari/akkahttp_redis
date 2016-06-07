@@ -1,4 +1,4 @@
-package com.lucianomolinari.akkahttp_redis
+package com.lucianomolinari.akkahttpredis
 
 import akka.actor.ActorSystem
 import akka.util.ByteString

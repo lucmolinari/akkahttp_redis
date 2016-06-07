@@ -1,4 +1,4 @@
-package com.lucianomolinari.akkahttp_redis
+package com.lucianomolinari.akkahttpredis
 
 import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
 import spray.json.DefaultJsonProtocol
